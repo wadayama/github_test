@@ -5,4 +5,5 @@ print 4+1
 print 10+1
 a=2
 b=1
+c=3
 
